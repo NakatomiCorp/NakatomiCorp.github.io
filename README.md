@@ -1,1 +1,1 @@
-# nakatomicorp.github.io
+# Nakatomi Corp. website (http://www.nakatomi.is)
