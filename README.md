@@ -1,1 +1,1 @@
-# Nakatomi Corp. website (http://www.nakatomi.is)
+# Nakatomi Corp. website (https://www.nakatomi.is)
